@@ -1,22 +1,5 @@
 {
-  "folders": [
-    {
-      "path": "shared"
-    },
-    {
-      "path": "shared-web"
-    },
-    {
-      "path": "widget"
-    },
-    {
-      "path": "terraform"
-    },
-    {
-      "path": ".",
-      "name": "root"
-    }
-  ],
+  "folders": [{"path": "."}],
   "settings": {
     "window.title": "matthis-hass${separator}${activeEditorShort}",
     "files.exclude": {
