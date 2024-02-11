@@ -1,5 +1,6 @@
 {
   "name": "widget",
+  "version": "1.0.0",
   "license": "UNLICENSED",
   "type": "module",
   "prettier": "@matthis/prettier-config",
@@ -7,7 +8,9 @@
     "test": "node --import tsx --test **/*.test.tsx"
   },
   "eslintConfig": {
-    "extends": ["@matthis/eslint-config-web"]
+    "extends": [
+      "@matthis/eslint-config-web"
+    ]
   },
   "devDependencies": {},
   "dependencies": {}
